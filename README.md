@@ -9,3 +9,5 @@ The data set was uploaded in the repository.
 The code file was uploaded multiple times as the project progressed, after importing the data exploratory data anlysis was conducted to understand the distribution, relationships, and patterns within the dataset. After EDA data preprocessing steps were carried out, including feature scaling and adressing class imbalance.
 Kept Random forest as a base model, Trained and tested the dataset with XGBoost, CatBoost and AdaBoost models. Compared the result before parameter tuning and after tuning.
 Checked the feature importance of each model.
+License :- 
+This project is licensed under the MIT license.
