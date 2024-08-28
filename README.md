@@ -5,3 +5,7 @@ Link to data :- https://archive.ics.uci.edu/dataset/350/default+of+credit+card+c
 Data satisfies all the ethical requirements, it doesn't contain any personal and confidential details of customers.
 License :- This dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 This allows for the sharing and adaptation of the datasets for any purpose, provided that the appropriate credit is given.
+The data set was uploaded in the repository. 
+The code file was uploaded multiple times as the project progressed, after importing the data exploratory data anlysis was conducted to understand the distribution, relationships, and patterns within the dataset. After EDA data preprocessing steps were carried out, including feature scaling and adressing class imbalance.
+Kept Random forest as a base model, Trained and tested the dataset with XGBoost, CatBoost and AdaBoost models. Compared the result before parameter tuning and after tuning.
+Checked the feature importance of each model.
